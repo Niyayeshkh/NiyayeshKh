@@ -32,14 +32,12 @@
   <a href="mailto:niyayeshkh0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-niyayeshkh0-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web_Developer-00CED1?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Learner-8A2BE2?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelancer-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <a href="https://t.me/itz_niyayesh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@itz__niyayesh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/itz_niyayesh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@itz__niyayesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -61,19 +59,31 @@
 
 ### 🚀 Projects I'm Working On
 
-<p align="center">
-  <a href="https://adrintel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_AdrIntel-Visit_Site-00CED1?style=for-the-badge&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://tooka-dev.ir/" target="_blank">
-    <img src="https://img.shields.io/badge/💡_Tooka_Dev-Visit_Site-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="http://45.149.77.150:8000/" target="_blank">
-    <img src="https://img.shields.io/badge/🛠️_Doxly-Visit_Site-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-  </a>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" width="280">
+      <a href="https://adrintel.com/" target="_blank">
+        <img src="https://img.shields.io/badge/AdrIntel-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00CED1" /><br><br>
+        <b>🔍 AdrIntel</b><br>
+        <sub>Visit Site →</sub>
+      </a>
+    </td>
+    <td align="center" width="280">
+      <a href="https://tooka-dev.ir/" target="_blank">
+        <img src="https://img.shields.io/badge/Tooka_Dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8A2BE2" /><br><br>
+        <b>💡 Tooka Dev</b><br>
+        <sub>Visit Site →</sub>
+      </a>
+    </td>
+    <td align="center" width="280">
+      <a href="http://45.149.77.150:8000/" target="_blank">
+        <img src="https://img.shields.io/badge/Doxly-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FF6B6B" /><br><br>
+        <b>🛠️ Doxly</b><br>
+        <sub>Visit Site →</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
