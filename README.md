@@ -1,122 +1,190 @@
-<h1 align="center">Hi, I'm Niyayesh Khazaee</h1>
-<h3 align="center">💻 Frontend & Backend Developer | Freelancer | Security Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=Python+%26+JavaScript+Developer;Frontend+%26+Backend+Lover;Network+Security+Learner;Always+Curious" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# Hi, I'm Niyayesh Khazaee 👋
+
+### Python Developer · Full-Stack Developer · Security Learner
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFDF5,50:D1FAE5,100:99F6E4&height=180&section=header&text=Code.%20Create.%20Grow.&fontSize=34&fontColor=065F46&fontAlignY=45&animation=fadeIn" width="100%" alt="Welcome"/>
+
+<br/>
+
+<a href="https://github.com/Niyayeshkh">
+  <img src="https://img.shields.io/badge/GitHub-Niyayeshkh-065F46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:niyayeshkh0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/itz_niyayesh">
+  <img src="https://img.shields.io/badge/Telegram-Connect-0D9488?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🌿 About Me
 
-### 👋 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
-- 🏠 Based in Mashhad, Iran
-- 💼 Frontend & Backend Developer | Freelancer & Employee
-- 🔭 Currently working on My Personal Website
-- 🌱 Learning Network Security
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Niyayeshkh)
-- 💬 Ask me about Python, JavaScript, Web Development & Security
-- 📫 How to reach me: **niyayeshkh0@gmail.com**
+Hi! I'm **Niyayesh Khazaee**, a passionate developer who enjoys turning ideas into real-world web applications.
+
+- 💻 Full-Stack Developer
+- 🐍 Python & JavaScript enthusiast
+- 🌱 Currently learning Network Security
+- 🚀 Building and improving web projects
+- ☕ Always learning something new
+- 📍 Mashhad, Iran
 
 <br clear="right"/>
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ My Tech Stack
 
-<p align="center">
-  <a href="https://github.com/Niyayeshkh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Niyayeshkh-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:niyayeshkh0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-niyayeshkh0-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/itz_niyayesh" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@itz__niyayesh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/itz_niyayesh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@itz__niyayesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Languages"/>
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode,docker,postgresql" alt="Tools"/>
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/scratch/4D97FF" alt="Scratch" width="45" height="45"/>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔍 AdrIntel
 
-### 🚀 Projects I'm Working On
+A web project focused on delivering a useful digital experience.
 
-<table align="center" border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td align="center" width="280">
-      <a href="https://adrintel.com/" target="_blank">
-        <img src="https://img.shields.io/badge/AdrIntel-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00CED1" /><br><br>
-        <b>🔍 AdrIntel</b><br>
-        <sub>Visit Site →</sub>
-      </a>
-    </td>
-    <td align="center" width="280">
-      <a href="https://tooka-dev.ir/" target="_blank">
-        <img src="https://img.shields.io/badge/Tooka_Dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8A2BE2" /><br><br>
-        <b>💡 Tooka Dev</b><br>
-        <sub>Visit Site →</sub>
-      </a>
-    </td>
-    <td align="center" width="280">
-      <a href="http://45.149.77.150:8000/" target="_blank">
-        <img src="https://img.shields.io/badge/Doxly-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FF6B6B" /><br><br>
-        <b>🛠️ Doxly</b><br>
-        <sub>Visit Site →</sub>
-      </a>
-    </td>
-  </tr>
+<br/>
+
+<a href="https://adrintel.com/">
+  <img src="https://img.shields.io/badge/Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit AdrIntel"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Tooka Dev
+
+A web development project with a focus on functionality and design.
+
+<br/>
+
+<a href="https://tooka-dev.ir/">
+  <img src="https://img.shields.io/badge/Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tooka Dev"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Doxly
+
+A legal document management web application.
+
+<br/>
+
+<a href="http://45.149.77.150:8000/">
+  <img src="https://img.shields.io/badge/Open%20Doxly-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Doxly"/>
+</a>
+
+<br/><br/>
+
+<details>
+<summary>ℹ️ Project Status</summary>
+
+<br/>
+
+**Doxly is currently under development.**
+
+This project is being actively developed and improved. Some features may still be incomplete.
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AutoML
+
+An ongoing project exploring machine learning workflows and web application development.
+
+<br/>
+
+<a href="https://github.com/Niyayeshkh">
+  <img src="https://img.shields.io/badge/Explore%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niyayeshkh&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=00CED1&icon_color=00CED1&text_color=333333&border_radius=15" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niyayeshkh&theme=default&hide_border=true&background=ffffff&stroke=00CED1&ring=00CED1&fire=FF6B6B&currStreakLabel=333333&sideLabels=333333&dates=888888&border_radius=15" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyayeshkh&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=00CED1&text_color=333333&border_radius=15" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Niyayeshkh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0D9488&text_color=374151&count_private=true&border_radius=15" height="165" alt="GitHub Stats"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niyayeshkh&theme=default&hide_border=true&background=FFFFFF&stroke=99F6E4&ring=0D9488&fire=F59E0B&currStreakLabel=0F766E&sideLabels=374151&dates=6B7280&border_radius=15" height="165" alt="GitHub Streak"/>
 
-### 📈 Activity Graph
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niyayeshkh&theme=github-light&hide_border=true&bg_color=ffffff&color=00CED1&line=00CED1&point=8A2BE2&area=true&area_color=00CED1" alt="Activity Graph" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyayeshkh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=374151&border_radius=15" alt="Top Languages"/>
+
+</div>
 
 ---
 
-### 🎯 My Goals for 2026
+## 🎯 What I'm Working On
 
-- 🐍 Become a Python Professional
-- 🌐 Launch my Personal Website
-- 🔒 Learn Ethical Hacking & Cybersecurity
-- 💡 Find and Build New Challenging Projects with Python
+<div align="center">
+
+| Goal | Status |
+|---|---|
+| 🐍 Improve Python skills | In Progress |
+| 🌐 Build better web applications | In Progress |
+| 🔒 Learn Cybersecurity | Learning |
+| 💡 Create challenging projects | Always |
+
+</div>
 
 ---
 
-<p align="center">
-  From <a href="https://github.com/Niyayeshkh">Niyayesh Khazaee</a> | Made with 💚 and ☕
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:niyayeshkh0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/itz_niyayesh">
+  <img src="https://img.shields.io/badge/Telegram-@itz__niyayesh-0D9488?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://instagram.com/itz_niyayesh">
+  <img src="https://img.shields.io/badge/Instagram-@itz__niyayesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:99F6E4,50:D1FAE5,100:ECFDF5&height=110&section=footer" width="100%" alt="Footer"/>
+
+<sub>Made with 💚 and ☕ by Niyayesh Khazaee</sub>
+
+</div>
